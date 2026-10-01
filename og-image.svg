@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f4f3ed" />
+  <rect x="0" y="0" width="1200" height="8" fill="#c8f169" />
+  <g fill="none" stroke="#171b19" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 250 210 120l100 130" />
+    <path d="M148 205h124" stroke="#c8f169" />
+  </g>
+  <text x="110" y="360" font-family="Manrope, Arial, sans-serif" font-size="78" font-weight="800" fill="#171b19">Anas Mohamed</text>
+  <text x="110" y="430" font-family="Manrope, Arial, sans-serif" font-size="34" fill="#4a524d">Web Developer</text>
+  <text x="110" y="500" font-family="Manrope, Arial, sans-serif" font-size="26" fill="#6b7370">Responsive websites and frontend experiences.</text>
+</svg>
